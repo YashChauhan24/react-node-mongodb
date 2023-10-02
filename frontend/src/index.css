@@ -1,0 +1,40 @@
+body {
+  background-color: #faf9f6;
+}
+.home {
+  text-align: center;
+}
+.main-form {
+  margin: 2rem 25rem;
+  border: 2px solid grey;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.list-div {
+  margin: 2rem 5rem;
+}
+.list-div {
+  margin: 2rem 10rem;
+  border: 2px solid grey;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+.book-div {
+  display: inline-table;
+  margin-right: 1rem;
+}
+.card {
+  width: 16rem;
+}
+.card-header {
+  text-align: center;
+}
+.update {
+  width: 14rem;
+}
